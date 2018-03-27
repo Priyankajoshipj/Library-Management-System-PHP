@@ -1,0 +1,23 @@
+
+body,td,th {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 10px;
+	color: #F0DEDE;
+}
+body {
+	background-color: #AF3B3D;
+	background-image: url(Images/LIBBg.jpg);
+	background-repeat: no-repeat;
+	
+	background-origin:content-box;
+	background-size: cover;
+}
+
+a:link {
+	color: #DDCCCC;
+}
+a:visited {
+	color: #DBBDBD;
+}
+.container{width: inherit;
+}
